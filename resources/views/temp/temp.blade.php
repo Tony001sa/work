@@ -10,7 +10,7 @@
 <body>
     <div class="main-container">
         <div class="item">
-            <img src="{{URL::asset('img/temp/SP_L2.png')}}" alt="Selfy Pay" width="458" height="auto">
+            <img src="{{URL::asset('img/temp/SP_L2.png')}}" alt="Selfy Pay" class="logo">
         </div>
         <div class="item">
             <span class="sp-name">SELFY PAY</span>
