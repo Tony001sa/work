@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Selfy Pay</title>
-	<link rel="stylesheet" href="{{URL::asset('css/temp/temp.css')}}">
+	<link rel="stylesheet" href="{{URL::asset('css/temp/temp.css')}}?v=1">
 </head>
 <body>
     <div class="main-container">
