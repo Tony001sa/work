@@ -33,7 +33,7 @@
 		<div class="container">
 			<nav id="navigation" class="navigation">
 				<div class="nav-header">
-					<a class="nav-brand" href="#">Selfy Pay</a>
+					<a href="#" class="nav-logo"><div class="nav-logo-image"></div></a>
 					<div class="nav-toggle"></div>
 				</div>
 				

@@ -22,8 +22,7 @@ $(document).ready(function(){
 	if($(window).scrollTop() > 10){
 		$(".navigation-fixed-wrapper").addClass("navigation-onscroll");
 	}
-	
-	
+    
 	// Apply styles on scroll
 	$(window).scroll(function(){
 		if($(window).scrollTop() > 10){
@@ -34,14 +33,15 @@ $(document).ready(function(){
 		}
 	});
 	
-	// MAPS
-	$('#map').locationpicker({
+    // MAPS
+    //don't work
+	/*$('#map').locationpicker({
 		location: {
 			latitude: 48.8588208,
 			longitude: 2.3495592
 		},
 		radius: 10
-	});
+	});*/
 	
 	// FORM VALIDATION
 	$("#contact-form").validate({
@@ -130,6 +130,5 @@ $(document).ready(function(){
 
             return false;
         }
-	});
-	
+    });
 });
