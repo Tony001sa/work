@@ -15,5 +15,8 @@ Route::get('/', function () {
     return view('temp.temp');
 });
 
-Auth::routes();
+Route::get('general', function () {
+    return view('static.general');
+});
 
+Auth::routes();
