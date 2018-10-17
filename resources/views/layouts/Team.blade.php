@@ -1,8 +1,8 @@
 <section id="team" class="team section text-center">
   <div class="container section-header text-center">
-    <h2>Our Team</h2>
+    <h2>Наша команда</h2>
     <p class="lead mx-auto mt-5">
-      These are the people who make things happen
+      Люди, которые сделали это возможным
     </p>
   </div>
   <div class="container">

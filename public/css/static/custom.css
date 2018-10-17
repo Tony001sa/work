@@ -1,7 +1,28 @@
 #atol_logo{
-  width: 70%;
+  max-width: 70%;
+  width: 120%;
+  height: auto;
 }
 
 #ingenico_logo{
-  width: 70%;
+  max-width: 70%;
+  width: 120%;
+  height: auto;
 }
+
+#X5_logo{
+  width: 120%;
+  height: auto;
+}
+
+#flat_img{
+  width: 100%;
+  height: auto;
+}
+
+/* #comp_info{
+  max-width: 100%;
+  height: auto;
+  background-color: #00b4ff;
+  color: black;
+} */

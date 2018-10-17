@@ -1,11 +1,16 @@
 <section id="advantages" class="advantages section section-gray">
   <div class="container section-header text-center">
-    <h2>Many Advantages</h2>
+    <h2>Как это работает</h2>
     <p class="lead mx-auto mt-5">
-      Our app can bring many benefits to you. See below some of them.
+      Если нужно, здесь тоже будет текст.
     </p>
   </div>
+
   <div class="container">
+    <img src="{{ asset('img/static/flat-1.jpg')}}" alt="" id="flat_img">
+  </div>
+
+  <!-- <div class="container">
     <div class="row">
       <div class="col-lg-6">
         <div class="advantage-box mx-auto w-100 mb-4 mb-lg-5">
@@ -58,5 +63,5 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </section>

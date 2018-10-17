@@ -4,17 +4,13 @@
     <div class="row">
       <div class="col-lg-6 d-flex align-items-center">
         <div>
-          <h1 class="display-4">Make your business reach the highest level with AppX</h1>
+          <h1 class="display-4">Заголовок</h1>
           <p class="lead mt-4">
-            Our app can help your business grow, improve your process and make your customers more satisfied
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit voluptatibus vel eaque officia earum dignissimos numquam accusamus sint provident totam, perspiciatis iusto, quibusdam non vero, iure autem. Corporis, dolor, nisi.
           </p>
           <a class="btn btn-primary btn-lg btn-rounded btn-xlg btn-light mt-4" href="#" role="button">
-            <i class="fa fa-apple fa-2x" aria-hidden="true"></i>
-            App Store
-          </a>
-          <a class="btn btn-primary btn-lg btn-rounded btn-xlg btn-light mt-4" href="#" role="button">
             <i class="fa fa-android fa-2x" aria-hidden="true"></i>
-            Google Play
+            Связаться
           </a>
         </div>
       </div>

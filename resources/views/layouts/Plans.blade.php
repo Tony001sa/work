@@ -1,8 +1,8 @@
 <section id="plans" class="plans section section-gray">
   <div class="container section-header text-center">
-    <h2>Our Plans</h2>
+    <h2>Продукт</h2>
     <p class="lead mx-auto mt-5">
-      See which of our plans is best for you
+      Важная информация о продукте.
     </p>
   </div>
   <div class="container">
@@ -10,8 +10,8 @@
       <div class="col-lg-4">
         <div class="card border-0 mb-5 mb-lg-0 p-5">
           <div class="card-block text-muted">
-            <p class="card-text mb-3">$49</p>
-            <h4 class="card-title m-0">Startup</h4>
+            <p class="card-text mb-3">49 руб.</p>
+            <h4 class="card-title m-0">Продукт один</h4>
           </div>
           <ul class="list-group py-4">
             <li class="list-group-item">
@@ -32,15 +32,15 @@
             </li>
           </ul>
           <div class="card-block">
-            <a class="btn btn-primary btn-block btn-rounded btn-xlg btn-custom" href="#" role="button">Get started</a>
+            <a class="btn btn-primary btn-block btn-rounded btn-xlg btn-custom" href="#" role="button">Заказать</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4">
         <div class="card border-0 mb-5 mb-lg-0 p-5">
           <div class="card-block text-muted">
-            <p class="card-text mb-3">$129</p>
-            <h4 class="card-title m-0">Business</h4>
+            <p class="card-text mb-3">129 руб</p>
+            <h4 class="card-title m-0">Продукт два</h4>
           </div>
           <ul class="list-group py-4">
             <li class="list-group-item">
@@ -61,15 +61,15 @@
             </li>
           </ul>
           <div class="card-block">
-            <a class="btn btn-primary btn-block btn-rounded btn-xlg btn-custom" href="#" role="button">Get started</a>
+            <a class="btn btn-primary btn-block btn-rounded btn-xlg btn-custom" href="#" role="button">Заказать</a>
           </div>
         </div>
       </div>
       <div class="col-lg-4">
         <div class="card border-0 mb-5 mb-lg-0 p-5">
           <div class="card-block text-muted">
-            <p class="card-text mb-3">$199</p>
-            <h4 class="card-title m-0">Enterprise</h4>
+            <p class="card-text mb-3">199 руб.</p>
+            <h4 class="card-title m-0">Продукт три</h4>
           </div>
           <ul class="list-group py-4">
             <li class="list-group-item">
@@ -90,7 +90,7 @@
             </li>
           </ul>
           <div class="card-block">
-            <a class="btn btn-primary btn-block btn-rounded btn-xlg btn-custom" href="#" role="button">Get started</a>
+            <a class="btn btn-primary btn-block btn-rounded btn-xlg btn-custom" href="#" role="button">Заказать</a>
           </div>
         </div>
       </div>

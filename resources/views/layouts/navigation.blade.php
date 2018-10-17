@@ -20,11 +20,11 @@
     <div class="nav-menus-wrapper">
       <ul class="nav-menu nav-menu-centered">
         <li class="active"><a href="#home">Домой</a></li>
-        <li><a href="#advantages">Примущества</a></li>
-        <li><a href="#case">Кейс</a></li>
-        <li><a href="#clients">Клиенты</a></li>
-        <li><a href="#plans">Наша касса</a></li>
+        <li><a href="#advantages">Как это работает</a></li>
+        <li><a href="#plans">Продукт</a></li>
+        <li><a href="#case">О компании</a></li>
         <li><a href="#team">Команда</a></li>
+        <li><a href="#clients">Партнеры</a></li>
         <li><a href="#contact">Контакты</a></li>
       </ul>
     </div>

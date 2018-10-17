@@ -26,3 +26,6 @@
 <!-- Main script -->
 <script src="{{ asset('js/static/main.js') }}"></script>
 <script src="{{ asset('js/static/custom.js') }}"></script>
+
+<!-- Revealator -->
+<script src="{{ asset('js/static/revealator.js') }}"></script>

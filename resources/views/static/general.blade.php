@@ -15,6 +15,7 @@
 
 		<!-- Plugin CSS -->
 		<link rel="stylesheet" href="{{URL::asset('css/static/bootstrap.min.css')}}">
+		<link rel="stylesheet" href="{{URL::asset('css/static/revealator.css')}}">
 
 		<!-- Template CSS -->
 
@@ -31,49 +32,40 @@
 			<div class="cp-spinner cp-skeleton"></div>
 		</div>
 
-			<!-- Navigation -->
+			<!-- Навигация -->
 			@include('layouts.navigation')
 
-			<!-- header -->
+			<!-- Хидер -->
 			@include('layouts.header')
 
 		<!-- Main -->
 		<div class="main">
 
-			<!-- Advantages -->
+			<!-- Как это работает -->
 			@include('layouts.Advantages')
 
-			<!-- Case -->
-			@include('layouts.case')
-
-			<!-- Info -->
-			@include('layouts.info')
-
-			<!-- Clients -->
-			@include('layouts.Clients')
-
-			<!-- Plans -->
+			<!-- Продукт -->
 			@include('layouts.Plans')
 
-			<!-- Team -->
+			<!-- О компании -->
+			@include('layouts.case')
+
+			<!-- Команда -->
 			@include('layouts.Team')
 
-			<!-- Newsletter -->
-			@include('layouts.NewsLetter')
+			<!-- Партнеры -->
+			@include('layouts.Clients')
 
-			<!-- FAQ -->
-			@include('layouts.FAQ')
-
-			<!-- Contact -->
+			<!-- Контакты -->
 			@include('layouts.Contact')
 
 			<!-- End of main -->
 		</div>
 
-		<!-- Footer -->
+		<!-- Подвал -->
 		@include('layouts.Footer')
 
-		<!-- jQuery -->
+		<!-- Библиотеки -->
     @include('layouts.jQuery')
 	</body>
 

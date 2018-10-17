@@ -1,8 +1,8 @@
 <section id="contact" class="contact section pb-0 text-center">
   <div class="container section-header">
-    <h2>Contact Us</h2>
+    <h2>Контакты</h2>
     <p class="lead mx-auto mt-5">
-      Call us or send a message
+      Позвоните или отправьте сообщение
     </p>
   </div>
   <div class="container">
@@ -32,7 +32,7 @@
         </div>
       </div>
     </div>
-    <div class="row mt-5">
+    <!-- <div class="row mt-5">
       <div class="col-lg-12">
         <form id="contact-form" method="post" action="php/contact.php">
           <div class="row">
@@ -53,7 +53,7 @@
         </form>
         <div id="error-container"></div>
       </div>
-    </div>
+    </div>  -->
   </div>
-  <div id="map" class="mt-5"></div>
+  <br><br>
 </section>
